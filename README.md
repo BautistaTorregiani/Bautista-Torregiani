@@ -11,20 +11,20 @@
 
 ### Sobre mí 
 
-- 🎓 Estudiante de **Licenciatura en Ciencia de Datos** en la **Universidad Austral**.
-- 🌍 **Idioma nativo**: Español | **Nivel en inglés**: B2
+ 🎓 Estudiante de **Licenciatura en Ciencia de Datos** en la **Universidad Austral**.
+ 🌍 **Idioma nativo**: Español | **Nivel en inglés**: B2
 
 ---
 
 ### Habilidades ⚙️💻
 
-- **Lenguajes**: Python, R
+ **Lenguajes**: Python, R
 
 ---
 
 ### Contacto 📬
 
-- **Email**: [bautistatorregiani@gmail.com](mailto:bautistatorregiani@gmail.com)
+ **Email**: [bautistatorregiani@gmail.com](mailto:bautistatorregiani@gmail.com)
 
 ---
 
